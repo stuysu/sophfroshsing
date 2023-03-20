@@ -270,6 +270,10 @@ html, body, .neon {
 	justify-content: center;
 	overflow-y:auto;
   }
+		
+		.navImg {
+			filter: invert(100%);
+			}
 
   @media screen and (max-width: 600px) {
 	#menu {
