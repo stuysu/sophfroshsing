@@ -267,7 +267,6 @@ html, body, .neon {
 	margin-bottom: 10px;
 	width: 100vw;
 	min-height: 100vh;
-	height: fit-content;
 	z-index: 99;
 	justify-content: center;
 	overflow-y:auto;
@@ -281,6 +280,7 @@ html, body, .neon {
 	#menu {
 		padding: 0;
 		padding-top: 100px;
+		margin-bottom: 50px;
 	}
   }
 
